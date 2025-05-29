@@ -1,5 +1,4 @@
-
-- ⚡ Fun fact: ...<h1 align="center">Hi there, I'm 👋 Ashwin kumar
+ ...<h1 align="center">Hi there, I'm 👋 Ashwin kumar
 
   🚀 BTech AI & ML Student | 👨‍💻 Aspiring Developer | 💡 Passionate about Tech & Innovation
 
