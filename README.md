@@ -1,8 +1,7 @@
-- 👋 Hi, I’m @AshwinKumar4031
+- 👋 Hi, I’m Ashwin. I'm a BTech student passionate about AI and Web development.
 - 👀 I’m interested in coding
 - 🌱 I’m currently learning c++
 - 💞️ I’m looking to collaborate on new startup
-- 📫 How to reach me through email 
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
